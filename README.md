@@ -65,5 +65,5 @@ and are built for maintainability and clarity.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/vois-task.git
+git clone https://github.com/PhilopateerGayed/vois-task.git
 cd vois-task
